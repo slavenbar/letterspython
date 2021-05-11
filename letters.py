@@ -8,4 +8,4 @@ for letter in massage:
         #print("Создана новая строка:", new_massage)
 
 print("\nВот ваш текст с изъятыми гласными буквами : ", new_massage,len(new_massage))
-print("\nПривет Мир")
+print("\nПривет Мир Наш2")
